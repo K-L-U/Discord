@@ -1,3 +1,5 @@
+//META{"name":"Prime","description":"Perfectly simplistic and sleek.","author":"K-L-U & Asoku","version":"1"}*//
+/*@import url("https://rawgit.com/K-L-U/Discord/master/main-prime.css");*/
 .mention {
 	background-color: rgba(27, 193, 86, 0.1) !important;
  color: #2E2EFE;
@@ -2190,7 +2192,6 @@ div.control-group .shortcut-recorder input[type=text] {
     padding: 0px;
 }
 .channel-members .avatar-small {
-    -webkit-filter: grayscale(0%) blur(0px);
     position: relative;
     -webkit-transition: all .8s ease;
     -moz-transition: all .8s ease;
