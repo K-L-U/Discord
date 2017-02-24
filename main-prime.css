@@ -25,11 +25,6 @@
 .layers {
     background: rgba(0,0,0,.5) !important;
 }
-
-body {
-    background: url(https://vgy.me/W9Zi4A.png) !important;
-    background-size: cover !important;
-}
 .guilds-wrapper, .private-channels, .channels-wrap, .search-bar, .account, .btn:not(.icon-logout):not(.icon-delete):not(.btn-primary):not(.create-role-button), #friends, .friends-header, .friends-table, .guild-header, header, .invite, .guild-channels, .scroller, .flex-spacer, .title-wrap, .messages-wrapper, .typing, .markup pre, .avatar-wrapper, #voice-connection, .guild-,-modal-members {
     background: none !important;
 }
