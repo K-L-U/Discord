@@ -1,2 +1,7 @@
 //META{"name":"Prime","description":"Perfectly simplistic and sleek.","author":"K-L-U & Asoku"}*//
 @import url("https://rawgit.com/K-L-U/master/main-prime.css");
+/*BACKGROUND IMAGE*/
+body {
+    background: url(https://vgy.me/W9Zi4A.png) !important; /*HTTPS NEEDED*/
+    background-size: cover !important;
+}
